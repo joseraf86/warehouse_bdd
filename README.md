@@ -1,31 +1,31 @@
-# Apuntes de Computaci√≥n
+# Apuntes de ComputaciÛn
 #### Entendiendo tests, Mocks, expectativas y comportamientos (BDD) con ejemplos
 
-C√≥digo de ejemplo del tutorial [Entendiendo tests, Mocks, expectativas y comportamientos (BDD) con ejemplos][1].
+CÛdigo de ejemplo del tutorial [Entendiendo tests, Mocks, expectativas y comportamientos (BDD) con ejemplos][1].
 
 #### Pre-requisitos
 
 * Ruby: MRI 2.2.3p173
 * gem 2.5.0
 
-Es recomendable el uso de [_rbenv_][2] con el plugin [_rb-build_][3] para la instalaci√≥n.
+Es recomendable el uso de [_rbenv_][2] con el plugin [_rb-build_][3] para la instalaciÛn.
 
-El correcto funcionamiento del ejemplo no est√° garantizado si se usan distintas versiones de las indicadas.
+El correcto funcionamiento del ejemplo no est· garantizado si se usan distintas versiones de las indicadas.
 
-#### Instalaci√≥n
+#### InstalaciÛn
 
-Ejecutar en el directorio ra√≠z del proyecto:
+Ejecutar en el directorio raÌz del proyecto:
 ```sh
 $ git clone https://github.com/joseraf86/warehouse_bdd.git
 ```
-Comprobar la aplicaci√≥n ejecutando:
+Comprobar la aplicaciÛn ejecutando:
 ```sh
 $ ./sample.rb
 ```
 
 #### Instrucciones
 
-Descargar c√≥digo fuente, el mismo est√° intradocumentado. Seguir la lectura del _post_ [Entendiendo tests, Mocks, expectativas y comportamientos (BDD) con ejemplos][1]. Inspeccionar los comentarios ficheros  *sample.rb*, *business.rb*, *order_state_tester.rb*, *order_behavior_tester.rb*.
+Descargar cÛdigo fuente, el mismo est· intradocumentado. Seguir la lectura del _post_ [Entendiendo tests, Mocks, expectativas y comportamientos (BDD) con ejemplos][1]. Inspeccionar los comentarios ficheros  *sample.rb*, *business.rb*, *order_state_tester.rb*, *order_behavior_tester.rb*.
 
 #### Lecturas recomendadas
 
